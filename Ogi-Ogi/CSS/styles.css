@@ -1,0 +1,181 @@
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif; */
+
+body{
+    font-family: "Open sans", sans-serif;
+    font-size:  15px;
+    padding-top: 34px;  
+}
+.logo{
+    padding-top: 22.5px;
+    display: block;
+}
+.nav-link{
+    color: #5D5F65;
+    font-size: 16px;
+    padding: 0.5rem 0.8rem;
+}
+.centrado{
+    width: 100%;
+    height: 615px;
+    display: flex;
+    align-items: center;
+    padding-bottom: 287px;
+}
+.centrado h1{
+    color: #141720;
+    font-weight: bold;
+    font-size: 44px;
+    font-family: "Montserrat", sans-serif;
+    margin-bottom: 17px;
+}
+.centrado h2{
+    font-size: 25px;
+    line-height: 2.4;
+}
+.doble-color{
+    background: #141720;
+    padding-top: 145px;
+    padding-bottom: 216px;
+    color: #fff;
+    position: relative;
+}
+.doble-color .texto-centra {
+    display: flex;
+    padding-right: 153px;
+    align-items: center;
+}
+.doble-color h3{
+    font-family: "Montserrat", sans-serif;
+    font-size: 28px;
+    padding-bottom: 54px;
+}
+.imagen-chavos{
+    width: 50%;
+    background: url(../imagenes/imagen-chavos.jpg);
+    height: 700px;
+    position: absolute;
+    background-size: cover;
+    right: 0;
+    top: 0;
+}
+.blanco {
+    background-color: #fff;
+    padding-bottom: 215px;
+}
+#timeline-container {
+    display: flex;
+    align-items: center;
+}
+#timeline-container .col-sm-5{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.derecha {
+    float: right;
+    padding-left: 279px;
+
+}
+
+.derecha h3{
+    font-family: "Montserrat", sans-serif;
+    font-size: 28px;
+    color: #2B2B2B;
+    padding-bottom: 54px;
+}
+.derecha p {
+    font-family: "Open Sans";
+    font-weight: normal;
+    font-style: normal;
+    line-height: 26px;
+    font-size: 15px;
+    color: #5D5F65;
+    letter-spacing: 0.5px;
+}
+.cuadros{
+    background-color: #979797;
+    padding-top: 189px;
+    padding-bottom: 140px;
+    padding-right: 15px;
+}
+.cuadros h2 {
+    padding-top: 143px;
+    padding-bottom: 70px;
+    color: #2B2B2B;
+    font-family: "Montserrat", sans-serif;
+    font-size: 28px;
+}
+.cuadros h3{
+    color: #141720;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+}
+.cuadros .cuadros-1 {
+    padding-right: 15px;
+    padding-left: 75px;
+} 
+
+.cuadros .margin-top-70 {
+    margin-top: 70px;
+    padding-right: 15px;
+    padding-left: 75px;
+}
+.imagen-chavos-2 {
+    width: 50%;
+    height: 709px;
+    background: url(../imagenes/imagen-chavos-2.jpg);
+    background-size:  cover;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+.doble-color-2{
+    background: #141720;
+    padding-top: 145px;
+    padding-bottom: 241px;
+    color: #fff;
+    position: relative;
+}
+.doble-color-2 h3 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 28px;
+    line-height: 26px;
+    padding-bottom: 30px;
+}
+.doble-color-2 p {
+    font-family: "Open Sans",  sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    letter-spacing: 0.5px;
+    font-size: 15px;
+}
+.doble-color-3 {
+    background: #141720;
+    padding-top: 145px;
+    padding-bottom: 190px;
+    color: #fff;
+    position: relative;
+}
+.imagen-mapa {
+    width: 50%;
+    background: url(../imagenes/map.jpg);
+    height: 700px;
+    position: absolute;
+    background-size: cover;
+    right: 0;
+    top: 0;
+}
+.doble-color-3 h3 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 28px;
+    line-height: 26px;
+}
+.doble-color-3 p {
+    font-family: "Open sans", sans-serif;
+    font-size: 15px;
+    padding-bottom: 27px;
+    padding-top: 37px;
+}
